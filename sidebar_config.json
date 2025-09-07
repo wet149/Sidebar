@@ -1,0 +1,10 @@
+{
+  "side": "right",
+  "theme": "dark",
+  "width_collapsed": 16,
+  "width_expanded": 240,
+  "auto_start": false,
+  "show_tray": true,
+  "font_size": 10,
+  "icon_size": 32
+}
